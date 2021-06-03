@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @thiagoleite92
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript @FullStack
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m Thiago Leite (/thiagoleite92)
+- 👀 I’m interested in develop my programming skills and get my first job as Web Developer.
+- 🌱 I’m currently learning JavaScript, ReactJS, HTML and CSS at Trybe.
 - 📫 How to reach me leite.tjs@gmail.com or https://www.linkedin.com/in/thiago-leite-137730139/
 
 <!---
