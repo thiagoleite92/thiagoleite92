@@ -19,6 +19,4 @@
  
 <div>  
   <a href = "mailto:leite.tjs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leite-tjs/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <img align="right" alt="Thiago-mrbean" width='400' src="https://www.mailbiz.com.br/wp-content/uploads/2019/12/tenor.gif">
- 
+  <a href="https://www.linkedin.com/in/leite-tjs/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
