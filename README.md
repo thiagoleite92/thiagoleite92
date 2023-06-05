@@ -1,10 +1,8 @@
 ## Thiago Leite - Web Developer
  <div>
-   Olá, me chamo Thiago Leite, um ex-profissional de educação física, com 9 meses de experiência como trainee em programação. Estou animado para dar o próximo passo em minha carreira como desenvolvedor Jr. em uma empresa onde eu possa crescer e desenvolver minhas habilidades.
+   Olá, me chamo Thiago Leite, um ex-profissional de educação física em transição de carreira para área tech. Tive a oportunidade de trabalhar com tecnologias como React, Angular, Express, Sass, TypeORM, Prisma e NestJS. Além disso, eu sou altamente motivado, dedicado e estou sempre procurando novas maneiras de expandir meu conhecimento na área da tecnologia.
 
-Como trainee, tive a oportunidade de trabalhar com tecnologias como React, Angular, Express, Sass, TypeORM, Prisma e NestJS, bem como participar de projetos em equipe. Além disso, eu sou altamente motivado, dedicado e estou sempre procurando novas maneiras de expandir meu conhecimento em tecnologia.
-
-Estou entusiasmado em contribuir para o sucesso da sua empresa e estou aberto a oportunidades desafiadoras que possam me ajudar a crescer em minha carreira. Se você está procurando um desenvolvedor Jr. comprometido, apaixonado e pronto para aprender, não hesite em entrar em contato comigo!
+Quero contribuir para o sucesso da sua empresa e estou aberto a oportunidades desafiadoras que possam me ajudar a crescer em minha carreira. Se você está procurando um desenvolvedor comprometido, apaixonado e pronto para aprender, não hesite em entrar em contato comigo!
 
 Stack principal:
 React
@@ -12,10 +10,6 @@ Angular
 Express
 NestJS
 PRISMA
-
-
-Atualmente estudando: 
-Java/Spring boot
 </div>
  <br>
  <span>
