@@ -2,7 +2,7 @@
  <div>
   Olá, me chamo Thiago Leite, um ex-profissional de educação física em transição de carreira para área tech. Posso atuar com React, Angular, Express, Sass, TypeORM, Prisma e NestJS. Além disso, eu estou 
  estudando Java/Spring boot. Sempre estou procurando novas maneiras de expandir meu conhecimento na área da tecnologia.
-Quero contribuir para o sucesso da sua empresa e estou aberto a oportunidades desafiadoras que possam ser interessantes no desenvolvimento da minha carreira como programador. Se você está procurando uma pessoa comprometid e determinada, não hesite em entrar em contato comigo!
+Quero contribuir para o sucesso da sua empresa e estou aberto a oportunidades desafiadoras que possam ser interessantes no desenvolvimento da minha carreira como programador. Se você está procurando uma pessoa comprometida e determinada, não hesite em entrar em contato comigo!
 
 Stack principal:
 React
